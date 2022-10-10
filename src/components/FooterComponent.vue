@@ -199,7 +199,7 @@ p {
   max-width: 300px;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;  
+  justify-content: space-between  
   
 }
 a {
